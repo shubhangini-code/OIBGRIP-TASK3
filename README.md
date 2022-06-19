@@ -1,1 +1,3 @@
-# OIBGRIP-TASK3
+# OIBGRIP-Task-3
+
+Celsius to Fahrenhiet Convertor 
